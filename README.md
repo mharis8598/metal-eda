@@ -1,4 +1,4 @@
-# Global Metal: Exploratory Data Analysis of 160,000+ Metal Bands
+# Global Metal: Exploratory Data Analysis of 183,000+ Metal Bands
 
 An exploratory data analysis of the Encyclopaedia Metallum (Metal Archives) 
 dataset, examining global trends in heavy metal music across countries, 
